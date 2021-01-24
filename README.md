@@ -5,7 +5,7 @@ Click the green code button above then click Download ZIP
 
 **or**
 
-Go to the [releases](https://github.com/SteveLockeUK/FJP_DCS_Liveries/releases/latest) page and download the zip for the latest release.
+Go to the [releases](https://github.com/SteveLockeUK/FJP_DCS_Liveries/releases/latest) page and download the Source code zip (you may need to expand "Assets").
 
 ## How to use
 The skins need to be placed in the Liveries directory in your DCS saved games folder.
