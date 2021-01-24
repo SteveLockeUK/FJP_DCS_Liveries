@@ -10,4 +10,4 @@ Go to the [releases](https://github.com/SteveLockeUK/FJP_DCS_Liveries/releases/l
 ## How to use
 The skins need to be placed in the Liveries directory in your DCS saved games folder.
 1. Download and extract the latest .zip
-1. Copy the "Liveries" (not FJP_DCS_Liveries-main) folder extracted in the previous step into `%USERPROFILE%\Saved Games\DCS.openbeta`
+1. Copy the "Liveries" (**not** FJP_DCS_Liveries-main) folder extracted in the previous step into `%USERPROFILE%\Saved Games\DCS.openbeta`
